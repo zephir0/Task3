@@ -19,8 +19,7 @@ java GraphAnalyzer.java
 ## Input
 
 - The first line takes an integer, representing the number of edges in the graph.
-- The subsequent lines (equal to the number of edges) take two positive integers representing vertices connected by an
-  edge.
+- The subsequent lines (equal to the number of edges) take two positive integers representing vertices.
 
 Example:
 
